@@ -4,10 +4,6 @@ import string
 import random
 import sys
 
-nums = string.digits
-nums2 = string.digits
-
-
 
 
 def run_loop_game():
